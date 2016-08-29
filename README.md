@@ -4,7 +4,7 @@
 
 # Lets Hangout
 
-> Get suggestions and decide what you want to do with your friends on a night-out
+> Cross-platform application that allows friends to Get suggestions and decide what they want to do on a night-out
 
 ## Table of Contents
 
